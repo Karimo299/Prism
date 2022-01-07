@@ -10,7 +10,7 @@ export default function NavBar() {
       <ul id={styles.nav}>
         <li>
           <NavLink
-            to="/"
+            to="/prism"
             className={styles.link}
             style={(navData) =>
               navData.isActive ? { color: "#45a29e" } : null

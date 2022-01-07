@@ -10,7 +10,7 @@ export default function App() {
     <div className={styles.container}>
       <NavBar />
       <Routes>
-        <Route path="/" element={<Home />} exact />
+        <Route path="/prism" element={<Home />} exact />
         <Route path="/friends" element={<Friends />} />
       </Routes>
     </div>
