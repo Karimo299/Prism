@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Prism/static/css/main.c958e9fa.css",
-    "main.js": "/Prism/static/js/main.de2335ee.js",
-    "index.html": "/Prism/index.html",
-    "main.c958e9fa.css.map": "/Prism/static/css/main.c958e9fa.css.map",
-    "main.de2335ee.js.map": "/Prism/static/js/main.de2335ee.js.map"
+    "main.css": "/prism/static/css/main.c958e9fa.css",
+    "main.js": "/prism/static/js/main.de2335ee.js",
+    "index.html": "/prism/index.html",
+    "main.c958e9fa.css.map": "/prism/static/css/main.c958e9fa.css.map",
+    "main.de2335ee.js.map": "/prism/static/js/main.de2335ee.js.map"
   },
   "entrypoints": [
     "static/css/main.c958e9fa.css",
