@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prism/static/css/main.c958e9fa.css",
+    "main.js": "/prism/static/js/main.662641cc.js",
+    "index.html": "/prism/index.html",
+    "main.c958e9fa.css.map": "/prism/static/css/main.c958e9fa.css.map",
+    "main.662641cc.js.map": "/prism/static/js/main.662641cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c958e9fa.css",
+    "static/js/main.662641cc.js"
+  ]
+}
