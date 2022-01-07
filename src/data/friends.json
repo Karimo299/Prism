@@ -1,0 +1,56 @@
+[
+  {
+    "Name": "Matt Murdock",
+    "Alias": "Daredevil",
+    "Bio": "I'm a really good lawyer",
+    "Image": "https://avatarfiles.alphacoders.com/200/200101.jpg"
+  },
+  {
+    "Name": "Tony Stark",
+    "Alias": "Iron Man",
+    "Bio": "I am Iron man",
+    "Image": "https://www.liveabout.com/thmb/i9A_DWGV7supJ244HqZfqrH-i1Q=/598x598/smart/filters:no_upscale()/FILM_ironman4-56a834265f9b58b7d0f184d1.jpg"
+  },
+  {
+    "Name": "Steven Strange",
+    "Alias": "Dr. Strange",
+    "Bio": "Mightiest Magician in the Cosmos",
+    "Image": "https://avatarfiles.alphacoders.com/246/thumb-1920-246608.jpg"
+  },
+  {
+    "Name": "Thor Odinson",
+    "Alias": "Thor",
+    "Bio": "The Strongest Avenger",
+    "Image": "https://avatarfiles.alphacoders.com/100/thumb-1920-100298.jpg"
+  },
+  {
+    "Name": "Bruce Banner",
+    "Alias": "Hulk",
+    "Bio": "HULK SMASH!",
+    "Image": "https://avatarfiles.alphacoders.com/227/227651.jpg"
+  },
+  {
+    "Name": "Steve Rogers",
+    "Alias": "Captian America",
+    "Bio": "Just a kid from Brooklyn",
+    "Image": "https://avatarfiles.alphacoders.com/108/108274.jpg"
+  },
+  {
+    "Name": "Scott Lang",
+    "Alias": "Ant Man",
+    "Bio": "Quatum Physics Master",
+    "Image": "https://avatarfiles.alphacoders.com/131/131679.jpg"
+  },
+  {
+    "Name": "Clint Barton",
+    "Alias": "Hawkeye",
+    "Bio": "World's best archer",
+    "Image": "https://avatarfiles.alphacoders.com/251/251098.jpg"
+  },
+  {
+    "Name": "Bucky Barns",
+    "Alias": "The Winter Soilder",
+    "Bio": "I've got a metal arm",
+    "Image": "https://avatarfiles.alphacoders.com/285/285302.jpg"
+  }
+]
